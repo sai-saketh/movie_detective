@@ -1,0 +1,29 @@
+.guide li{
+color: #3D52A0;
+font-size: 30px;
+}
+
+html{
+background-color: #ADBADA;
+}
+
+.entry p{
+text-align: center;
+margin: 20px;
+padding: 20px;
+font-size: 50px;
+color: #E43D12;
+}
+
+p,form {
+font-weight: bold;
+color: #003135;
+font-size: 25px;
+}
+
+.output li{
+color: black;
+font-size: 20px;
+font-weight: bold;
+padding: 20px;
+}
